@@ -1,2 +1,2 @@
-# Loja-Mix-Variedades
-Loja Mix Variedades — Sistema de loja desenvolvido em PHP, com banco de dados, HTML e CSS, para organização e gerenciamento de produtos.
+# ProjetoLojaMixVariedades
+Sistema de gestão comercial para loja de variedades com cadastro de produtos, clientes, categorias, vendas e relatórios.
